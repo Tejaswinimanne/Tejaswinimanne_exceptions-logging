@@ -1,0 +1,21 @@
+2020-02-29 22:17:53 DEBUG App:23 - Choose 1 for calculating Interest.
+2020-02-29 22:17:53 DEBUG App:24 - Choose 2 for house construction.
+2020-02-29 22:18:07 DEBUG App:27 - Enter principal amount
+2020-02-29 22:18:11 DEBUG App:29 - Enter rate of interest
+2020-02-29 22:18:13 DEBUG App:31 - Enter time in years
+2020-02-29 22:18:15 DEBUG App:33 - 1.Simple Interest
+2.Compound Interest
+Choose an option from the above
+
+2020-02-29 22:18:20 DEBUG App:37 - The simple interest is : 40.0
+2020-02-29 22:19:05 DEBUG App:23 - Choose 1 for calculating Interest.
+2020-02-29 22:19:05 DEBUG App:24 - Choose 2 for house construction.
+2020-02-29 22:19:07 DEBUG App:45 - 1:1200INR if we use standard materials
+2:1500INR if we use above standard materials
+3: 1800INR if customers needs high standard material
+4: 2500INR if customer needs high standard material and fully
+automated home
+
+2020-02-29 22:19:07 DEBUG App:50 - Chosee the type of material from the above
+2020-02-29 22:19:17 DEBUG App:52 - Enter the area of your home in square feet
+2020-02-29 22:19:21 DEBUG App:55 - The total cost is : 1250000.0
